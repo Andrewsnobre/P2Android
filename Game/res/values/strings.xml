@@ -7,5 +7,14 @@
     <string name="BemVindo">Bem vindo a loja de Games!!!</string>
      <string name="btn1">Entrar</string>
       <string name="btn2">Cancelar</string>
-
+ <string-array name="Estados">
+     <item>Acre</item>
+     <item>Rio de Janeiro</item>
+     <item>São Paulo</item>
+     <item>Curitiba</item>
+     <item>Alagoas</item>
+     <item>Sergipe</item>
+     <item>Santa Catarina</item>
+     <item>Paraná</item>
+     </string-array>
 </resources>

@@ -75,4 +75,13 @@
 
     </LinearLayout>
 
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText2"
+        android:layout_marginTop="16dp"
+         android:entries="@array/Estados"
+         />
+
 </RelativeLayout>
