@@ -3,7 +3,7 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.gamestore.MainActivity"
+    
     tools:ignore="MergeRootFrame" >
 
     <RatingBar
@@ -17,7 +17,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="Bem vindo a Loja de Games!!!"
+        android:text="@string/BemVindo"
+      
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <ImageView
