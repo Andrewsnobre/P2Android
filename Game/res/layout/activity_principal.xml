@@ -81,7 +81,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/editText2"
         android:layout_marginTop="16dp"
-         android:entries="@array/Estados"
-         />
+        android:contentDescription="Escolha seu Estado"
+        android:entries="@array/Estados" />
 
 </RelativeLayout>
